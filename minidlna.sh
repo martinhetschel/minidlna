@@ -3,6 +3,7 @@
 # wget -q -O - https://raw.githubusercontent.com/martinhetschel/minidlna/master/minidlna.sh | bash 
 
 docker stop minidlna
+docker rm minidlna
 
 docker pull geekduck/minidlna
 
