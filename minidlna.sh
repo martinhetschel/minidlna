@@ -1,6 +1,6 @@
 #!/bin/sh
 # Install by typing:
-# wget -q -O - https://raw.githubusercontent.com/AM2H-Development/AM2H-ServerV2/2.1.0/bin/getAM2H-ServerV2.sh | bash 
+# wget -q -O - https://raw.githubusercontent.com/martinhetschel/minidlna/master/minidlna.sh | bash 
 
 docker stop minidlna
 
